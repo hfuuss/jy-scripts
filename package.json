@@ -1,6 +1,6 @@
 {
   "name": "jy-scripts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "九月大人的脚手架",
   "main": "index.js",
   "bin": {
